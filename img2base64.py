@@ -16,7 +16,7 @@ def main(argv):
     # Handle command line input
     arglen = len(argv)
     usage_message = '\n>\tUsage: \
-                    \n\t\tpython3 image2base64.py -i <inputfile> -o <outputfile> \
+                    \n\t\tpython3 img2base64.py -i <inputfile> -o <outputfile> \
                     \n\t\tThe <img> element will hold id=<outputfile>\n'
     error_usage_message = "\n>\tIncorrect usage! Use -h for more info.\n"
     

@@ -13,7 +13,7 @@ Open and change the `image_file_name` and `img_element_id`, then run the cell.
 Run from terminal.
 
 ```sh
-python3 image2base64.py -i <inputfile> -o <outputfile>
+python3 img2base64.py -i <inputfile> -o <outputfile>
 ```
 
 ## Use as converter:
